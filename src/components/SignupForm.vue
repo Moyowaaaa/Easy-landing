@@ -7,7 +7,7 @@
 
 
             <div class=" w-full flex gap-2 lg:gap-4">
-                <div class="w-full lg:w-6/12 h-[4rem] items-center flex rounded-md border-2 border-[#222222] px-6 bg-[#F6FF82] lg:bg-transparent">
+                <div class="w-full lg:w-6/12 h-[3rem]  lg:h-[4rem] items-center flex rounded-md border-2 border-[#222222] px-6 bg-[#F6FF82] lg:bg-transparent">
                      <input type="text" 
             class="w-10/12 mx-auto bg-transparent border-none outline-none
             placeholder:text-sm

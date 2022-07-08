@@ -9,7 +9,7 @@
      <div class="home min-h-screen justify-center flex flex-col  lg:px-20  ">
     <div class="flex flex-col-reverse lg:flex-row justify-between w-full px-[1rem]">
 
-      <div class="w-11/12 lg:w-7/12  flex flex-col text-white justify-center gap-4 pt-[1.5rem] lg:pt-0">
+      <div class="w-full lg:w-7/12  flex flex-col text-white justify-center gap-4 pt-[1.5rem] lg:pt-0">
 
         
         <div class="flex flex-col items-center  lg:items-start">
@@ -42,7 +42,7 @@
       </div>  
       </div>  
 
-       <div class="home min-h-screen  flex flex-col items-center justify-center lg:px-20 lg:flex-row">
+       <div class="home lg:min-h-screen  flex flex-col items-center justify-center lg:px-20 lg:flex-row">
         <div class="w-11/12  lg:w-7/12 text-2xl lg:text-6xl flex  font-[avenir-black] text-white">
           <h2>Expenses and Profit all in one <span class="text-[#F6FF82]">place</span></h2>
         </div>
@@ -55,12 +55,12 @@
 
 
        <div class="home min-h-screen  flex flex-col justify-center gap-6 lg:px-20">
-            <div class="w-full text-2xl lg:text-7xl flex font-[avenir-black] text-white">
-          <h2><span class="text-[#F6FF82]">Trusted</span> by 3000+ businesses</h2>
+            <div class="w-full text-2xl lg:text-7xl flex font-[avenir-black] text-white pl-4 lg:pl-0">
+          <h2><span class="text-[#F6FF82] ">Trusted</span> by 3000+ businesses</h2>
         </div>
 
         <div class="text-white w-full lg:w-4/12">
-          <p class="text-xs lg:text-base px-2 lg:px-0">From small, medium and large, different companies of different sizes 
+          <p class="text-xs lg:text-base px-2 lg:px-0 pl-4 lg:pl-0">From small, medium and large, different companies of different sizes 
 trust us to when managing and secure their finances.</p>
         </div>
 
@@ -93,7 +93,7 @@ trust us to when managing and secure their finances.</p>
        </div>
        <!-- ---- -->
 
-       <div class="min-h-screen flex flex-col lg:px-20 bg-[#222222] gap-4 pb-24 justify-around">
+       <div class="lg:min-h-screen flex flex-col lg:px-20 bg-[#222222] gap-4 pb-24 justify-around pt-12 lg:pt-0">
   <h1 class="text-2xl lg:text-6xl text-[#F6FF82] flex font-[avenir-black]">
             Testimonies
           </h1>
