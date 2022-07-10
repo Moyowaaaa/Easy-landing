@@ -19,8 +19,8 @@
 
 
         <div>
-        <button class="flex mt-[2rem] font-[avenir-black] py-4 px-10 bg-[#F6FF82] gap-4 items-center text-black">Get Started
-          <img src="../assets/forwardarrow.svg" />
+        <button class="flex mt-[2rem] font-[avenir-black] py-4 px-10 bg-[#F6FF82] gap-4 items-center text-black transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300  ">Get Started
+          <img src="../assets/forwardarrow.svg" class="" />
 
 
         </button>
@@ -32,7 +32,7 @@
 
       
 
-    <div class="w-11/12 lg:w-5/12 flex flex-col items-center mx-auto lg:mx-0">
+    <div class="w-11/12 lg:w-5/12 flex flex-col items-center mx-auto lg:mx-0 transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
       <img src="../assets/homecard.svg">
       <img src="../assets/emoticons.svg" class="lg:mt-[-10vh]">
     </div>
@@ -47,7 +47,7 @@
           <h2>Expenses and Profit all in one <span class="text-[#F6FF82]">place</span></h2>
         </div>
 
-        <div class="w-9/12 lg:w-5/12 flex flex-col pt-12  ">
+        <div class="w-9/12 lg:w-5/12 flex flex-col pt-12 transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300  ">
           <img src="../assets/card.svg" />
         </div>
 
@@ -64,8 +64,8 @@
 trust us to when managing and secure their finances.</p>
         </div>
 
-        <div class="w-9/12 lg:w-full mx-auto lg:mx-0 flex flex-col lg:flex-row gap-2 justify-center gap-4 lg:gap-8 ">
-          <img src="../assets/rectangle1.svg" />
+        <div class="w-9/12 lg:w-full mx-auto lg:mx-0 flex flex-col lg:flex-row gap-2 justify-center gap-4 lg:gap-8 lg:mb-8">
+          <img src="../assets/rectangle1.svg" class="transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 " />
           <img src="../assets/rectangle2.svg" />
 
         </div>
@@ -77,17 +77,17 @@ trust us to when managing and secure their finances.</p>
        </div> 
 
 
-       <div class="h-auto lg:h-[60vh] flex flex-col">
+       <div class="h-auto lg:h-[60vh] flex flex-col ">
 
         <div class="w-full lg:px-20 bg-[#F6FF82]  h-full flex flex-col lg:flex-row items-center justify-center ">
 
-          <div class=" w-full text-center lg:text-left lg:w-7/12 text-2xl lg:text-6xl text-black flex font-[avenir-black] text-white pt-6 pb-12 lg:pt-0 lg:pb-0">
+          <div class=" w-full text-center lg:text-left lg:w-7/12 text-2xl lg:text-6xl text-black flex font-[avenir-black] text-white pt-6 pb-12 lg:pt-0 lg:pb-0 ">
           <h2> All payment managed in one app</h2>
         </div>
 
 
-          <div class="pb-6">
-            <img src="../assets/transactions.svg" />
+          <div class="pb-6 animate-bounce">
+            <img src="../assets/transactions.svg" class="" />
           </div>
          </div>
        </div>
@@ -105,7 +105,7 @@ trust us to when managing and secure their finances.</p>
 
           <div class="flex flex-row gap-4 lg:gap-8 ">
 
-            <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem]">
+            <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem] transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
 
               <div class="flex w-10/12 items-center gap-2 lg:w-11/12 justify-center ">
                 <img src="../assets/user1.svg">
@@ -121,7 +121,7 @@ and expenses are easy to monitor.
             </div>
 
 
-            <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem]">
+            <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem] transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
               <div class="flex items-center gap-2 w-11/12 justify-center ">
                 <img src="../assets/user2.svg">
                 <div class="flex flex-col">
@@ -135,7 +135,7 @@ and expenses are easy to monitor.
 
             </div>
 
-             <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem]">
+             <div class="bg-white w-[20rem] lg:w-[30rem] justify-center items-center flex flex-col  rounded-md h-[12rem] lg:h-[18rem] transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
               <div class="flex items-center gap-2 w-11/12 justify-center ">
                 <img src="../assets/user3.svg">
                 <div class="flex flex-col">

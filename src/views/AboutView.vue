@@ -45,17 +45,20 @@ laptops.</p>
 
      <div class="flex flex-col lg:flex-row w-full gap-8  h-max justify-center items-center lg:items-start lg:px-20 pt-12" >
 
-      <div class=" w-10/12 lg:w-4/12 flex flex-col mb-12">
-        <div class="flex flex-col gap-4">
+      <div class=" w-10/12 lg:w-4/12 flex flex-col mb-12 ">
+        <div class="flex flex-col gap-4 ">
+          <div class=" transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
           <img src="../assets/person1.jpg">
 
           <div class="text-white">
             <h2 class="text-xl font-[avenir-black] font-[750] ">Joan Dave</h2>
             <p>CEO</p>
           </div>
+          </div>
 
 
             <div class="flex flex-col gap-4 pt-12">
+              <div class=" transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
           <img src="../assets/person2.jpg">
 
           <div class="text-white">
@@ -63,6 +66,7 @@ laptops.</p>
             <p>CTO</p>
           </div>
         </div>
+        </div>  
 
         </div>
       </div>
@@ -71,11 +75,13 @@ laptops.</p>
 
         <div class="w-10/12 lg:w-4/12 mt-2  lg:mt-20 mb-12">
             <div class="flex flex-col  pt-4 gap-4">
+              <div class=" transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
           <img src="../assets/person3.jpg">
 
           <div class="text-white">
             <h2 class="text-xl font-[avenir-black] font-[750] ">Phillip John</h2>
             <p>Software Engineer</p>
+          </div>
           </div>
 
       </div>
@@ -83,11 +89,13 @@ laptops.</p>
 
 
          <div class="flex flex-col gap-4 pt-12 ">
+          <div class=" transition ease-in-out delay-150  hover:-translate-y-1 lg:hover:scale-110  duration-300 ">
           <img src="../assets/person4.jpg">
 
           <div class="text-white">
             <h2 class="text-xl font-[avenir-black] font-[750] ">Grace Justin</h2>
             <p>Senior Desginer</p>
+          </div>
           </div>
 
       </div>

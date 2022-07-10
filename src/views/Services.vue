@@ -13,7 +13,7 @@
               
             </div>
                     <div class=" mt-[-5vh] lg:absolute lg:mt-0  w-11/12 h-auto lg:h-[20rem] top-[20rem] left-20 lg:flex flex-col lg:flex-row   lg:justify-evenly gap-12 mx-auto lg:mx-0">
-                <div class="h-5/6 lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0  bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto" >
+                <div class="h-5/6 lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0  bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300 cursor-pointer" >
                     <h2 class="text-2xl lg:text-3xl font-[avenir-black] font-[750] pt-6 lg:pt-0">Total Control </h2>
                     <p class="text-justify pb-6 lg:pb-0">
                         We give you the ability to manage your 
@@ -25,7 +25,7 @@ anytime.
                     </p>
                 </div>
 
-                <div class="h-5/6 lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0 bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto">
+                <div class="h-5/6 lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0 bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300 cursor-pointer">
                     <h2 class="text-2xl lg:text-3xl font-[avenir-black] font-[750] pt-6 lg:pt-0">Security</h2>
                     <p class="text-justify pb-6 lg:pb-0">
                         We give you the ability to manage your 
@@ -38,7 +38,7 @@ anytime.
                 </div>
 
 
-                <div class="h-auto lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0 bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto">
+                <div class="h-auto lg:h-full w-10/12 lg:w-4/12  mb-4 lg:mb-0 bg-white rounded-md flex flex-col gap-4 justify-center px-4 shadow-md mx-auto transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 duration-300 cursor-pointer">
                     <h2 class="text-2xl lg:text-3xl font-[avenir-black] font-[750] pt-6 lg:pt-0">Cross Platform </h2>
                     <p class="text-justify pb-6 lg:pb-0">
                         We give you the ability to manage your 

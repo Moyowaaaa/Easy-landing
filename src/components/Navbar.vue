@@ -1,5 +1,5 @@
 <template>
-    <div class="hidden lg:block py-6 px-6 bg-[#222222] text-white px-20">
+    <div class="hidden lg:block py-6  bg-[#222222] text-white px-24">
         <div class="flex justify-between items-center ">
             <router-link to="/">
             <h1 class="font-[avenir-black] font-[750]">Easy</h1>
